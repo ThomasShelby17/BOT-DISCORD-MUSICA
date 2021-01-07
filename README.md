@@ -15,8 +15,5 @@ Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicB
 
 ## ✨ Contributors
 Contributions are always welcomed :D
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
 
 Made with :heart: and JavaScript!
